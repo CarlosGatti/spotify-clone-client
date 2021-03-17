@@ -3,6 +3,7 @@ A front-end clone project of the Spotify web player. The project was created usi
 
 ## Table of Contents
 - [Description](#description)
+- [Getting Started](#getting-started)
 
 ## Description
 A clone web application using the create-react-app. The app comsumes data from the Spotify API and tries to mimic the UI and front-end behaviours of the official [Spotify web player](https://open.spotify.com/) as much as possible.
