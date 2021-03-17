@@ -19,5 +19,3 @@ npm start
 ```
 
 ![App Screen Shot](https://github.com/CarlosGatti/spotify-clone-client/blob/main/demo/arctic.png)
-*The main screen (non-authenicated) of the app*
-
