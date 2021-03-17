@@ -7,5 +7,5 @@ A front-end clone project of the Spotify web player. The project was created usi
 ## Description
 A clone web application using the create-react-app. The app comsumes data from the Spotify API and tries to mimic the UI and front-end behaviours of the official [Spotify web player](https://open.spotify.com/) as much as possible.
 
-![App Screen Shot](https://github.com/CarlosGatti/spotify-clone-client/blob/master/demo/arctic.png)
+![App Screen Shot](https://github.com/CarlosGatti/spotify-clone-client/blob/main/demo/arctic.png)
 *The main screen (non-authenicated) of the app*
